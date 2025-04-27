@@ -16,8 +16,12 @@
  <img alt=".NET Framework" src="https://img.shields.io/badge/-.NET%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
  <!-- ASP.NET Core Badge -->
   <img alt="ASP.NET Core" src="https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <!-- SQL Badge -->
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
   <!-- SSMS (using SQL Server logo) -->
   <img alt="SSMS" src="https://img.shields.io/badge/-SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <!-- SSRS (using SQL Server logo) -->
+  <img alt="SSRS" src="https://img.shields.io/badge/-SSRS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-ff62f6?style=flat-square&logo=Adobe%20XD&logoColor=white" />  
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
